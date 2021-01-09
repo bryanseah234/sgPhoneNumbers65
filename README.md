@@ -1,5 +1,5 @@
 # Singapore Phone Numbers
-Project Goal: Use Python to validate phone numbers. Project Admin: Bryan.
+code to validate Singapore phone numbers and tell which telco owns them.
 
 <p align="left">
   <img src="http://www.pngmart.com/files/7/Calling-PNG-Photos.png" />
@@ -8,6 +8,7 @@ Project Goal: Use Python to validate phone numbers. Project Admin: Bryan.
 ## Disclaimer:
 1. USE AT OWN DISCRETION
 2. FOR EDUCATIONAL PURPOSES ONLY
+3. INFORMATION MAY NOT BE ACCURATE
 
 ## Instructions:
 1. Download as zip folder
